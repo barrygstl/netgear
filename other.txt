@@ -1,0 +1,46 @@
+[Internet connected] IP address: 24.107.206.67,                                         
+[DHCP IP: (192.168.1.3)] to MAC address B0:B9:8A:5E:DF:F1,                                         
+[Internet disconnected]                                         
+[DHCP IP: (192.168.1.2)] to MAC address A8:10:87:4F:0B:56,                                         
+[Initialized, firmware version: V1.1.0.104_1.0.1 ]                                         
+[Time synchronized with NTP server time-b.netgear.com] Saturday, December 26,2020 17:17:33     
+[DHCP IP: (192.168.1.3)] to MAC address F8:36:9B:81:¼G@2E:F3, Saturday, December 26,2020 14:57:17     
+[DHCP IP: (192.168.1.8)] t¼G@o MAC address 48:BA:4E:A5:90:E4, Saturday, December 26,2020 09:31:33     
+[WLAN access rejected: incorrect security] from MAC address 1a:b9:bb:0f:2d:1a, Saturday, December 26,2020 07:44:03     
+[DHCP IP: (192.168.1.23)] to MAC address 56:B1:2E:72:AB:79, Saturday, Decemb¼G@er 26,2020 04:33:39     
+[DHCP IP: (192.168.1.¼G@6)] to MAC address B0:B9:8A:5E:DF:F1, Saturday, December 26,2020 00:49:35     
+[Time synchronized with NTP server time-b.netgear.com] Friday, December 25,2020 17:17:28       
+[DHCP IP: (192.168.1.10)] to M¼G@AC address F8:36:9B:83:36:A2, Friday, December 25,2020 12:47:47       
+[DHCP IP: (19¼G@2.168.1.23)] to MAC address 56:B1:2E:72:AB:79, Friday, December 25,2020 05:40:25       
+[DHCP IP: (192.168.1.6)] to MAC address B0:B9:8A:5E:DF:F1, Friday, December 2¼G@5,2020 01:05:27       
+[DHCP IP: (192.168.1.24)] to MAC add¼G@ress A6:DC:5B:42:7A:9D, Saturday, December 19,2020 17:18:56     
+[Time synchronized with NTP server time-b.netgear.com] Saturday, December 19,2020 16:21:15     
+[Internet connected] IP address: 24.107.206.67, Saturday, December 19,2020 16:20:49     
+[DHCP ¼G@IP: (192.168.1.29)] to MAC address A6:E5:CA:F8:7A:DE, Saturday, December 19,2020 13:14:05     
+[Time synchronized with NTP server time-b.netgear.com] Saturday, December 19,2020 12:45:20     
+[Internet connected] IP address: 24.107.206.67, Saturday, December 19,2020 12:45:05     
+[Time synchronized with NTP server time-b.netgear.com] Saturday, December 19,2020 10:33:51     
+[Internet connected] IP address: 24.107.206.67, Saturday, December 19,2020 10:33:35     
+[DHCP IP: (192.168.1.29)] to MAC address A6:E5:CA:F8:7A:DE, Saturday, Decemb¼G@er 19,2020 02:53:31     
+[WLAN access rejected: incorrect security] from MAC address a6:e5:ca:f8:7a:de, Saturday, December 19,2020 02:32:01     
+[DH¼G@CP IP: (192.168.1.10)] to MAC address F8:36:9B:83:36:A2, Friday, December 18,2020 23:17:05       
+[DHCP IP: (192.168.1.7)] to¼G@ MAC address 18:56:80:6C:52:5A, Friday, December 18,2020 16:57:47       
+[Time synchronized with NTP server time-b.netgear.com] Friday, December 18,2020 14:57:06       
+[DH¼G@CP IP: (192.168.1.7)] to MAC address 18:56:80:6C:52:5A, Friday, December 18,2020 14:02:14       
+[DoS attack: RST Scan] from source¼G@: 74.6.145.75:993, Saturday, December 12,2020 16:59:49     
+[Time synchronized with NTP server time-b.netgear.com] Saturday, December 12,2020 12:31:36     
+[DoS attack: RST Sc¼G@an] from source: 74.119.119.147:443, Saturday, December 12,2020 10:35:50     
+[DHCP IP: (192.168.1.25)] to MAC address E6:BA:77:29:11:D9, Saturday, Decem¼G@ber 12,2020 08:32:52     
+[DHCP IP: (192.168.1.21)] to MAC address¼G@ 52:A5:93:9D:99:D5, Saturday, December 12,2020 04:32:15     
+[DHCP¼G@ IP: (192.168.1.10)] to MAC address F8:36:9B:83:36:A2, Friday, December 11,2020 22:55:37       
+[DoS attack: RST¼G@ Scan] from source: 17.248.241.172:443, Friday, December 11,2020 14:37:49       
+[Time synchronized with NTP server time-b.netgear.com] Friday, December 11,2020 12:31:32       
+[DHCP IP: (192.168.1.33)] to M¼G@AC address CC:46:4E:CB:54:8C, Saturday, December 05,2020 18:40:52     
+[WLAN access rejected: incorrect security] from MAC address f8:36:9b:81:2e:f3, Saturday, December 05,2020 15:08:23     
+[DHCP IP: ¼G@(192.168.1.23)] to MAC address 56:B1:2E:72:AB:79, Saturday, December 05,2020 12:36:04     
+[Time synchronized with NTP server time-b.netgear.com] Saturday, December 05,2020 12:31:04     
+[DHCP IP: (192.168.1.7)] to MAC address 18:56:80:6C:52:5A, Saturday, December 05,2020 1¼G@0:03:11     
+[WLAN access rejected: incorrect security] from MAC address 1a:b9:bb:0f:2d:1a, Saturday, December 05,2020 09:55:07     
+[DHCP IP: (192.168.1.7)] to MAC address¼G@ 18:56:80:6C:52:5A, Saturday, December 05,2020 07:25:27     
+[WLAN access rejected: incorrect security] from MAC address a6:e5:ca:f8:7a:de, Saturday, December 05,2020 04:49:43     
+[DoS attack: RST Scan] f¼G@rom source: 142.250.123.109:993, Saturday, December 05,2020 03:41:35     
